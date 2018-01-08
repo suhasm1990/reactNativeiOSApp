@@ -6,3 +6,5 @@ This project is an React Native iOS App developed to demonstrate how easy it is 
 * Run npm start in CMD.
 * Scan the QR code in expo app.
 * Your app will be rendered in the iPhone.
+
+For other references and details please check out RunApp.md
